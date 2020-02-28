@@ -8,6 +8,6 @@ template: |
   {{Replace this with any Trello links this PR addresses}}
 
 
-  ## Changes
+  ## Pull requests
   $CHANGES
 
