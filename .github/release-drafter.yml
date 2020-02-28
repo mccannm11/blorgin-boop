@@ -1,0 +1,7 @@
+tag-template: $MAJOR.$NEXT_MINOR_VERSION.0
+
+template: |
+  ## Description
+  {{Replace this with a company-readable description of the release. Make it so someone with no context understands what it is and why it's important. Screenshots are helpful, especially with front end}}
+  ## Trello links
+  {{Replace this with any Trello links this PR addresses}}
